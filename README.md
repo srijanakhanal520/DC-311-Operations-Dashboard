@@ -51,7 +51,7 @@ The dashboard includes several operational KPIs, including:
 
 ### Service Performance
 
-![Service Performance](screenshots/Service_Performance.png)
+![Service Performance](screenshots/Service_Perfrmance.png)
 
 ### Backlog Analysis
 
